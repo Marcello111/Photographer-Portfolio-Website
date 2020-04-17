@@ -1,2 +1,2 @@
 # Photographer-Portfolio-Website
-A Photographer Portfolio Website, from advanced HTML and CSS week.
+A Photographer Portfolio Website (Layout), from advanced HTML and CSS week.
