@@ -1,0 +1,10 @@
+
+.columns {
+    display: flex;
+}
+
+.position {
+    margin: 20px auto;
+    text-align: unset;
+}
+

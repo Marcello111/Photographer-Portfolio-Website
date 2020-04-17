@@ -1,0 +1,31 @@
+
+.work-button {
+    display: inline-block;
+    background-color: rgb(65, 202, 220);
+    color: white;
+    padding: 5px;
+    border: 0px solid;
+}
+
+.links {
+    margin: 10px auto 10px auto;
+}
+
+.search-button {
+    background-color: rgb(255, 108, 127);
+    border: 2px solid rgb(255, 108, 127);
+    color: white;
+    padding: 5px;
+}
+
+input, textarea {
+    border: 2px solid rgb(222, 226, 229);
+    padding: 5px;
+    width: 180px;
+    color: rgb(73, 73, 73);
+}
+
+.artic {
+    margin: 10px auto;
+}
+

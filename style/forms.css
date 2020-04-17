@@ -1,0 +1,29 @@
+
+label {
+    display: block;
+}
+
+.contact, .search-button {
+    margin: 10px 20px 20px 20px;
+}
+
+input, textarea {
+   width: 600px;
+}
+
+.contact-form {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.search-input {
+    width: unset;
+}
+
+.hero-input {
+    width: unset;
+}
+
+

@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    color: black;
+}
+
+h2 {
+    padding: 8rem;
+    background-color: peachpuff;
+    font-size: 2.6rem;
+    text-align: center;
+}
+
+.posted-date {
+    font-size: small;
+    color: grey;
+}
+
+.continue  {
+    font-size: medium;
+    color: grey;
+    text-decoration: underline;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+li {
+    margin: 10px;
+}
+
+.posts {
+    color: black;
+    text-decoration: none;
+}
+
+.portfolio, .card {
+    text-align: center;
+}

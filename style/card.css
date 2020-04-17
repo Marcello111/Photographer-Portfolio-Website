@@ -1,0 +1,17 @@
+
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px 40px;
+}
+
+.animal-card {
+    width: 45%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.card-pic {
+    margin-bottom: 20px;
+}
