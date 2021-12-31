@@ -4,7 +4,7 @@
     background-color: rgb(65, 202, 220);
     color: white;
     padding: 5px;
-    border: 0px solid;
+    border: 0 solid;
 }
 
 .links {
@@ -28,4 +28,3 @@ input, textarea {
 .artic {
     margin: 10px auto;
 }
-
